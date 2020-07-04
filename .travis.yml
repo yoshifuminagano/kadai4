@@ -1,0 +1,5 @@
+lamguage: bash
+script:
+        - echo This is kadai4 that verify the script of GCD caluculation
+        - ./gcdtest01.sh
+
