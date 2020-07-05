@@ -32,7 +32,7 @@ diff /tmp/result-$$ /tmp/ans-$$ || exit 1
 
 ./gcdcalc01.sh 1058 1288 > /tmp/result-$$
 
-echo 1058  と 1288  の最大公約数は  47  です. > /tmp/ans-$$
+echo 1058  と 1288  の最大公約数は  46  です. > /tmp/ans-$$
 
 diff /tmp/result-$$ /tmp/ans-$$ || exit 1
 
